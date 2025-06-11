@@ -1,0 +1,19 @@
+# Node modules
+node_modules/
+
+# Logs
+logs
+*.log
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de entorno
+.env
+.env.local
+.env.*.local
+
+# Coverages y cachés
+coverage/
+npm-debug.log*
